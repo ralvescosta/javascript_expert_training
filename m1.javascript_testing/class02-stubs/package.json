@@ -1,0 +1,10 @@
+{
+  "name": "class02-stubs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "sinon": "^9.2.1"
+  }
+}
