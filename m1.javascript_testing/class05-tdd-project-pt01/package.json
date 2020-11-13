@@ -1,0 +1,13 @@
+{
+  "name": "class05-tdd-project-pt01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "seed": "node ./seed/seed"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.7",
+    "faker": "^5.1.0"
+  }
+}
