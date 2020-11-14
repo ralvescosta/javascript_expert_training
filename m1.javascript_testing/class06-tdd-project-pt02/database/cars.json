@@ -1,0 +1,23 @@
+[
+  {
+    "id": "96888ae3-ee68-4094-9e3f-fb7122e1dcf5",
+    "name": "Volt",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "14ae4db4-eb16-4f91-bd1d-5c1277b01d3a",
+    "name": "Silverado",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "c4072f8c-091d-4cbf-8c82-9467f105fc0d",
+    "name": "Taurus",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  }
+]
